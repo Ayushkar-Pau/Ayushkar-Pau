@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayushkar-Pau
-- 👀 My interest is Lord Shiva
+- 👀 My interest is ...pata nahi
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ...I don't know
 
