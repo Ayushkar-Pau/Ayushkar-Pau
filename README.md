@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayushkar-Pau
-- 👀 My interest is ...pata nahi
+- 👀 My interest is ...I don't know
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ...I don't know
 
